@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Azurenative - cloud native</title>
-    <link>https://azurenative.github.io/</link>
-    <description>Recent content on Azurenative - cloud native</description>
+    <title>Azurenative</title>
+    <link>https//blog.azurenative.nl/</link>
+    <description>Recent content on Azurenative</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://azurenative.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https//blog.azurenative.nl/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
