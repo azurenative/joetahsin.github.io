@@ -1,0 +1,6 @@
+copyright = 'azurenative'
+defaultContentLanguage = 'en'
+baseURL = 'https://blog.azurenative.nl'
+languageCode = 'en-us'
+title = 'Azurenative Blog - blue clouds are real - Joe Tahsin'
+theme =  'ananke'
